@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Charles Test Guide - Termii SMS & OTP",
+  "description": "A comprehensive testing playground and educational tool for the Termii API, allowing developers to send manual SMS, generate OTPs, and verify codes using specialized channels like DND.",
+  "requestFramePermissions": []
+}
